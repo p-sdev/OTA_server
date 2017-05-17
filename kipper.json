@@ -1,0 +1,33 @@
+{
+   "filename":"purenexus_kipper-7.1.2-20170517-UNOFFICIAL.zip",
+   "build_date":"20170517",
+   "filesize":535542942,
+   "md5":"de4b3620fc711b29b359a1d88e4cac07",
+   "developer":"Mahmod Ayyash (PS-DEV)",
+   "download_url":"http://pn-ota.jhdev.me/download/745425885120732500",
+   "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
+   "donate_url":"http://bit.ly/2pUh7oz",
+   "website_url":"https://forum.xda-developers.com/wileyfox-storm/development/pure-nexus-rom-wileyfox-storm-t3597391",
+   "addons":[
+      {
+         "title":"Beans GApps Mini",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
+      },
+      {
+         "title":"Beans GApps Full",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=745425885120730638"
+      },
+      {
+         "title":"Magisk",
+         "summary":"MagiskSu v12.0",
+         "url":"http://tiny.cc/latestmagisk"
+      },
+      {
+         "title":"SuperSU",
+         "summary":"SuperSU v2.79",
+         "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
+      }
+   ]
+}

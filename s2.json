@@ -1,0 +1,33 @@
+{
+   "filename":"purenexus_s2-7.1.2-20170524-UNOFFICIAL.zip",
+   "build_date":"20170524",
+   "filesize":513504166,
+   "md5":"993b271a3a49d7f9cdb2cece42d58631",
+   "developer":"Rohit Jaiswal (rohitjaiswal)",
+   "url":"http://pn-ota.jhdev.me/download/673368273298957102",
+   "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
+   "donate_url":"https://www.paypal.me/rohitjaiswal",
+   "website_url":"https://forum.xda-developers.com/le-2/development/rom-pure-nexus-project-t3611485",
+   "addons":[
+      {
+         "title":"Beans GApps Mini",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
+      },
+      {
+         "title":"Beans GApps Full",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=745425885120730638"
+      },
+      {
+         "title":"Magisk",
+         "summary":"MagiskSu v12.0",
+         "url":"http://tiny.cc/latestmagisk"
+      },
+      {
+         "title":"SuperSU",
+         "summary":"SuperSU v2.79",
+         "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
+      }
+   ]
+}

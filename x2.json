@@ -28,5 +28,6 @@
          "summary":"SuperSU v2.79",
          "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
       }
-   ]
+   ],
+   "android_version":"7.1.2"
 }

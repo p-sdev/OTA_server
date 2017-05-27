@@ -1,13 +1,13 @@
 {
-   "filename":"purenexus_merlin-7.1.2-20170508-UNOFFICIAL.zip",
-   "build_date":"20170508",
-   "filesize":354418688,
-   "md5":"ae51a4fa0e93f986c4913715ab88fdb7",
+   "filename":"purenexus_merlin-7.1.2-20170526-UNOFFICIAL.zip",
+   "build_date":"20170526",
+   "filesize":367001600,
+   "md5":"4b60ca20d28da560f5d04cba57b30ddb",
    "developer":"Esrom Cataneo (EsromG5)",
-   "url":"http://pn-ota.jhdev.me/download/817550096634767980",
+   "url":"http://pn-ota.jhdev.me/download/673368273298957711",
    "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
    "donate_url":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2RA2Z2Y6NZTCS",
-   "website_url":"https://forum.xda-developers.com/2015-moto-g/development/rom-pure-nexus-moto-g-2015-t3603002",
+   "website_url":"https://forum.xda-developers.com/2015-moto-g/development/rom-pure-nexus-moto-g-2015-t3608819",
    "addons":[
       {
          "title":"Beans GApps Mini",

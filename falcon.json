@@ -1,10 +1,10 @@
 {
-   "filename":"purenexus_falcon-7.1.2-20170529-UNOFFICIAL",
-   "build_date":"20170529",
-   "filesize":331409262,
-   "md5":"cfb0839448bf210efe6ccaff0ced61ff",
+   "filename":"purenexus_falcon-7.1.2-20170530-UNOFFICIAL",
+   "build_date":"20170530",
+   "filesize":331406856,
+   "md5":"59731349669053bdb41f184615f4c217",
    "developer":"Aayushya",
-   "url":"http://pn-ota.jhdev.me/download/673368273298958559",
+   "url":"http://pn-ota.jhdev.me/download/889764386195903225",
    "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
    "website_url":"https://forum.xda-developers.com/moto-g/development/rom-pure-nexus-substratum-t3584331",
    "addons":[

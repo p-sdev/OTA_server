@@ -1,0 +1,28 @@
+{
+   "filename":"purenexus_falcon-7.1.2-20170529-UNOFFICIAL",
+   "build_date":"20170529",
+   "filesize":331409262,
+   "md5":"cfb0839448bf210efe6ccaff0ced61ff",
+   "developer":"Aayushya",
+   "url":"http://pn-ota.jhdev.me/download/673368273298958559",
+   "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
+   "website_url":"https://forum.xda-developers.com/moto-g/development/rom-pure-nexus-substratum-t3584331",
+   "addons":[
+      {
+         "title":"Beans GApps Mini",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
+      },
+      {
+         "title":"Magisk",
+         "summary":"MagiskSu v12.0",
+         "url":"http://tiny.cc/latestmagisk"
+      },
+      {
+         "title":"SuperSU",
+         "summary":"SuperSU v2.79",
+         "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
+      }
+   ],
+   "android_version":"7.1.2"
+}

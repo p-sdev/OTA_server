@@ -1,0 +1,28 @@
+{
+   "filename":"purenexus_oneplus2-7.1.2-20170527-UNOFFICIAL.zip",
+   "build_date":"20170527",
+   "filesize":524600000,
+   "md5":"c24a7653d4f00955db81d697b60a0b1f",
+   "developer":"Subham (DerkLord)",
+   "url":"http://pn-ota.jhdev.me/download/817550096634772409",
+   "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
+   "website_url":"https://forum.xda-developers.com/oneplus-2/development/unofficial-pure-nexus-project-oneplus2-t3601830",
+   "addons":[
+      {
+         "title":"Beans GApps Mini",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
+      },
+      {
+         "title":"Beans GApps Full",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=745425885120730638"
+      },
+      {
+         "title":"Magisk",
+         "summary":"MagiskSu v12.0",
+         "url":"http://tiny.cc/latestmagisk"
+      }
+   ],
+   "android_version":"7.1.2"
+}

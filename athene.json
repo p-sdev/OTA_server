@@ -1,0 +1,34 @@
+{
+   "filename":"purenexus_athene-7.1.2-20170604-UNOFFICIAL.zip",
+   "build_date":"20170604",
+   "filesize":389021696,
+   "md5":"ebb09a8e5563a002307ac03ea2bffc8b",
+   "developer":"Esrom Cataneo (EsromG5)",
+   "url":"http://pn-ota.jhdev.me/download/817550096634775282",
+   "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
+   "donate_url":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2RA2Z2Y6NZTCS",
+   "website_url":"https://forum.xda-developers.com/moto-g4-plus/development/rom-pure-nexus-moto-g-2016-t3617117",
+   "addons":[
+      {
+         "title":"Beans GApps Mini",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
+      },
+      {
+         "title":"Beans GApps Full",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=745425885120730638"
+      },
+      {
+         "title":"Magisk",
+         "summary":"MagiskSu v12.0",
+         "url":"http://tiny.cc/latestmagisk"
+      },
+      {
+         "title":"SuperSU",
+         "summary":"SuperSU v2.79",
+         "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
+      }
+   ],
+   "android_version":"7.1.2"
+}

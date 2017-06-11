@@ -1,18 +1,18 @@
 {
-   "filename":"purenexus_falcon-7.1.2-20170530-UNOFFICIAL",
-   "build_date":"20170530",
-   "filesize":331406856,
-   "md5":"59731349669053bdb41f184615f4c217",
+   "filename":"purenexus_falcon-7.1.2-20170611-UNOFFICIAL",
+   "build_date":"20170611",
+   "filesize":321456812,
+   "md5":"29b9fd68799b04e03d176823bc56d1cf",
    "developer":"Aayushya",
-   "url":"http://pn-ota.jhdev.me/download/889764386195903225",
+   "url":"http://pn-ota.jhdev.me/download/961840155545572904",
    "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
    "donate_url":"https://goo.gl/cfMZCP",        
    "website_url":"https://forum.xda-developers.com/moto-g/development/rom-pure-nexus-substratum-t3584331",
    "addons":[
       {
          "title":"Beans GApps Mini",
-         "summary":"Android 7.1.x - 20170509",
-         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
+         "summary":"Android 7.1.x - 20170610",
+         "url":"https://www.androidfilehost.com/?fid=673368273298962437"
       },
       {
          "title":"Magisk",

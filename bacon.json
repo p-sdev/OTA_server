@@ -1,0 +1,34 @@
+{
+   "filename":"purenexus_bacon-7.1.2-20170612-UNOFFICIAL.zip",
+   "build_date":"20170612",
+   "filesize":"330496167",
+   "md5":"d360c790fc217b8e5ade5793c68927b9",
+   "developer":"Parag Pandya (Pacer_456)",
+   "url":"http://pn-ota.jhdev.me/download/745425885120740036",
+   "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
+   "donate_url":"https://forum.xda-developers.com/member.php?u=7125548",
+   "website_url":"https://forum.xda-developers.com/oneplus-one/development/rom-purenexus-mod-7-1-2-t3620260",
+   "addons":[
+      {
+         "title":"Beans GApps Mini",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
+      },
+      {
+         "title":"Beans GApps Full",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=745425885120730638"
+      },
+      {
+         "title":"Magisk",
+         "summary":"MagiskSu v12.0",
+         "url":"http://tiny.cc/latestmagisk"
+      },
+      {
+         "title":"SuperSU",
+         "summary":"SuperSU v2.79",
+         "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
+      }
+   ],
+   "android_version":"7.1.2"
+}

@@ -1,10 +1,10 @@
 {
-   "filename":"purenexus_lux-7.1.2-20170514-UNOFFICIAL.zip",
-   "build_date":"20170514",
-   "filesize":391013990,
+   "filename":"purenexus_lux-7.1.2-20170613-UNOFFICIAL.zip",
+   "build_date":"20170613",
+   "filesize":343619456,
    "md5":"ce7b4ff964f811664d13aedf27429a06",
    "developer":"Nick van Bokhorst (GtrCraft)",
-   "url":"http://pn-ota.jhdev.me/download/889764386195899208",
+   "url":"http://pn-ota.jhdev.me/download/673368273298963137",
    "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
    "website_url":"https://forum.xda-developers.com/moto-x-play/development/rom-pure-nexus-substratum-t3583754",
    "addons":[

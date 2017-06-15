@@ -1,10 +1,10 @@
 {
-   "filename":"purenexus_merlin-7.1.2-20170526-UNOFFICIAL.zip",
-   "build_date":"20170526",
-   "filesize":367001600,
-   "md5":"4b60ca20d28da560f5d04cba57b30ddb",
+   "filename":"purenexus_merlin-7.1.2-20170614-UNOFFICIAL.zip",
+   "build_date":"20170614",
+   "filesize":365515840,
+   "md5":"ffb2d8e2401eeba18fed04afa9a1b8c7",
    "developer":"Esrom Cataneo (EsromG5)",
-   "url":"http://pn-ota.jhdev.me/download/673368273298957711",
+   "url":"http://pn-ota.jhdev.me/download/961840155545574398",
    "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
    "donate_url":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2RA2Z2Y6NZTCS",
    "website_url":"https://forum.xda-developers.com/2015-moto-g/development/rom-pure-nexus-moto-g-2015-t3608819",
@@ -12,12 +12,7 @@
       {
          "title":"Beans GApps Mini",
          "summary":"Android 7.1.x - 20170509",
-         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
-      },
-      {
-         "title":"Beans GApps Full",
-         "summary":"Android 7.1.x - 20170509",
-         "url":"https://www.androidfilehost.com/?fid=745425885120730638"
+         "url":"https://www.androidfilehost.com/?fid=673368273298962437"
       },
       {
          "title":"Magisk",

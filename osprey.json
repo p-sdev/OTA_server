@@ -1,10 +1,10 @@
 {
-   "filename":"purenexus_osprey-7.1.2-20170526-UNOFFICIAL.zip",
-   "build_date":"20170526",
-   "filesize":365953024,
-   "md5":"a7e4861182444a54185360b18936040c",
+   "filename":"purenexus_osprey-7.1.2-20170614-UNOFFICIAL.zip",
+   "build_date":"20170614",
+   "filesize":356515840,
+   "md5":"4df9dfc34faf40229ecb8b7618229fc7",
    "developer":"Esrom Cataneo (EsromG5)",
-   "url":"http://pn-ota.jhdev.me/download/673368273298957720",
+   "url":"http://pn-ota.jhdev.me/download/961840155545574392",
    "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
    "donate_url":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2RA2Z2Y6NZTCS",
    "website_url":"https://forum.xda-developers.com/2015-moto-g/development/rom-pure-nexus-moto-g-2015-t3603002",
@@ -12,12 +12,7 @@
       {
          "title":"Beans GApps Mini",
          "summary":"Android 7.1.x - 20170509",
-         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
-      },
-      {
-         "title":"Beans GApps Full",
-         "summary":"Android 7.1.x - 20170509",
-         "url":"https://www.androidfilehost.com/?fid=745425885120730638"
+         "url":"https://www.androidfilehost.com/?fid=673368273298962437"
       },
       {
          "title":"Magisk",

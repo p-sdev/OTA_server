@@ -1,23 +1,23 @@
 {
-   "filename":"purenexus_kenzo-7.1.2-20170518-UNOFFICIAL.zip",
-   "build_date":"20170518",
-   "filesize":563085312,
-   "md5":"241e7eebd3c57ac4cb9c087f4078227b",
+   "filename":"purenexus_kenzo-7.1.2-20170618-UNOFFICIAL.zip",
+   "build_date":"20170618",
+   "filesize":547356672,
+   "md5":"96e5ca5a30c4883484855d4d4b14eeaa",
    "developer":"Henrique Silva (jhenrique09)",
-   "url":"http://mirror.codebucket.de/purenexus/kenzo/purenexus_kenzo-7.1.2-20170518-UNOFFICIAL.zip",
+   "url":"http://mirror.codebucket.de/purenexus/kenzo/purenexus_kenzo-7.1.2-20170618-UNOFFICIAL.zip",
    "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/kenzo.mkdn",
    "donate_url":"http://bit.ly/jhenrique09_donate",
    "website_url":"https://forum.xda-developers.com/redmi-note-3/development/rom-pure-nexus-substratum-fi-wifi-t3577060",
    "addons":[
       {
          "title":"Beans GApps Mini",
-         "summary":"Android 7.1.x - 20170509",
-         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
+         "summary":"Android 7.1.x - 20170610",
+         "url":"https://www.androidfilehost.com/?fid=673368273298962437"
       },
       {
          "title":"Beans GApps Full",
-         "summary":"Android 7.1.x - 20170509",
-         "url":"https://www.androidfilehost.com/?fid=745425885120730638"
+         "summary":"Android 7.1.x - 20170610",
+         "url":"https://www.androidfilehost.com/?fid=745425885120739604"
       },
       {
          "title":"Magisk",

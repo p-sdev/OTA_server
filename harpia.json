@@ -1,0 +1,33 @@
+{
+   "filename":"purenexus_harpia-7.1.2-20170627-UNOFFICIAL.zip",
+   "build_date":"20170627",
+   "filesize":356515840,
+   "md5":"",
+   "developer":"Henrique Silva (jhenrique09)",
+   "url":"http://pn-ota.jhdev.me/download/fid",
+   "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
+   "donate_url":"http://bit.ly/jhenrique09_donate",
+   "addons":[
+      {
+         "title":"Beans GApps Mini",
+         "summary":"Android 7.1.x - 20170610",
+         "url":"https://www.androidfilehost.com/?fid=673368273298962437"
+      },
+      {
+         "title":"Beans GApps Full",
+         "summary":"Android 7.1.x - 20170610",
+         "url":"https://www.androidfilehost.com/?fid=745425885120739604"
+      },
+      {
+         "title":"Magisk",
+         "summary":"MagiskSu v12.0",
+         "url":"http://tiny.cc/latestmagisk"
+      },
+      {
+         "title":"SuperSU",
+         "summary":"SuperSU v2.79",
+         "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
+      }
+   ],
+   "android_version":"7.1.2"
+}

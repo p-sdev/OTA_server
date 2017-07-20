@@ -1,10 +1,10 @@
 {
-   "filename":"purenexus_kipper-7.1.2-20170613-UNOFFICIAL.zip",
-   "build_date":"20170613",
-   "filesize":519176674,
-   "md5":"49f876de66e71535b24fa687ce331d81",
+   "filename":"purenexus_kipper-7.1.2-20170720-UNOFFICIAL.zip",
+   "build_date":"20170719",
+   "filesize":516471506,
+   "md5":"dd225e6338d8ae63425d710fe255fb49",
    "developer":"Mahmod Ayyash (PS-DEV)",
-   "url":"http://pn-ota.jhdev.me/download/889764386195907529",
+   "url":"http://pn-ota.jhdev.me/download/889764386195917179",
    "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/CHANGELOG.mkdn",
    "donate_url":"http://bit.ly/2pUh7oz",
    "website_url":"https://forum.xda-developers.com/wileyfox-storm/development/pure-nexus-rom-wileyfox-storm-t3597391",
@@ -21,7 +21,7 @@
       },
       {
          "title":"Magisk",
-         "summary":"MagiskSu v12.0",
+         "summary":"MagiskSu v13.3",
          "url":"http://tiny.cc/latestmagisk"
       },
       {
